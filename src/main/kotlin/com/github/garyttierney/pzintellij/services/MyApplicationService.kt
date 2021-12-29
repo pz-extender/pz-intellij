@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.garyttierney.pzintellij.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.garyttierney.pzintellij.MyBundle
 
 class MyApplicationService {
 
